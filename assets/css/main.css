@@ -1,0 +1,44 @@
+body {
+  /* background-color: lightblue; */
+  background-color: #3E2723;
+  background-image: linear-gradient;
+}
+
+h1 {
+  color: greenyellow;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #E0E0E0;
+  text-align: center;
+}
+
+ul {
+  margin-left: 23rem;
+  color: #E0E0E0;
+}
+
+li {
+  margin-top: 2rem;
+}
+
+.custom-h1 {
+  font-size: 70px;
+}
+
+.center {
+  text-align: center;
+}
+
+.header {
+  margin-top: 5%;
+}
+
+/* Contact form*/
+.cform-alert-success {
+  display: none;
+  text-align: center;
+}
